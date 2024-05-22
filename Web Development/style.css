@@ -1,0 +1,22 @@
+
+body{background-color: black;}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}
+
+p {font-family: Helvetica;
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+
+background-color: #fa2ade;
+}
